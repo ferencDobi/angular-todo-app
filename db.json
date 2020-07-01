@@ -13,7 +13,12 @@
     {
       "id": 3,
       "title": "Make restaurant reservation",
-      "complete": false
+      "complete": true
+    },
+    {
+      "title": "teszt",
+      "complete": false,
+      "id": 4
     }
   ]
 }
